@@ -2,10 +2,10 @@
 ## Depto de Sistemas y Computación
 ## Ing. En Sistemas Computacionales
 ## SISTEMAS PROGRAMABLES 23a
-## Autor (es): ___________
-## Repositorio:  
-## Fecha de revisión:   99/99/2023
-## Objetivo:
+## Autor (es): Jazziel Bello Necochea
+## Repositorio: 37 Sensores
+## Fecha de revisión:  5/23/2023
+## Objetivo: Realizar pruebas con los sensores proporcionados por el profe
 ##   
 
 ## TODO: (pendientes sin resolver)
@@ -16,4 +16,4 @@
 ##
 ## Complete:  (Ya terminado), borrar estos mensajes.
 ##
-##
+## Equipo individual ( Jazziel Bello )
