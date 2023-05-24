@@ -7,13 +7,6 @@
 ## Fecha de revisión:  5/23/2023
 ## Objetivo: Realizar pruebas con los sensores proporcionados por el profe
 ##   
-
-## TODO: (pendientes sin resolver)
-##
-##
-## In Progress: (resueltos parcialmente)
-##
-##
-## Complete:  (Ya terminado), borrar estos mensajes.
-##
 ## Equipo individual ( Jazziel Bello )
+
+
